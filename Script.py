@@ -11,7 +11,7 @@ class script(object):
 - 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://t.me/vipzzk>𝗞𝗔𝗟𝗬𝗔𝗡𝗜-𝐁𝐎𝐓</a>
 
 <b>DEVS:</b>
-- 𝙳𝚎𝚟 1<a href=https://t.me/vipzzk>VIPZZ K</a>"""
+- <a href=https://t.me/vipzzk>𝙈𝙧.𝙑𝙞𝙥𝙯𝙯 𝙠</a>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
